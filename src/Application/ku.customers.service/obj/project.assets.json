@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "ku.customers.domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ku.customers.domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ku.customers.domain.dll": {}
+        }
+      },
+      "ku.customers.infrastructure.data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ku.customers.domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ku.customers.infrastructure.data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ku.customers.infrastructure.data.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ku.customers.domain/1.0.0": {
+      "type": "project",
+      "path": "../../Domain/ku.customers.domain/ku.customers.domain.csproj",
+      "msbuildProject": "../../Domain/ku.customers.domain/ku.customers.domain.csproj"
+    },
+    "ku.customers.infrastructure.data/1.0.0": {
+      "type": "project",
+      "path": "../../Infrastructure/Data/ku.customers.infrastructure.data/ku.customers.infrastructure.data.csproj",
+      "msbuildProject": "../../Infrastructure/Data/ku.customers.infrastructure.data/ku.customers.infrastructure.data.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "ku.customers.domain >= 1.0.0",
+      "ku.customers.infrastructure.data >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/uzer/.nuget/packages/": {}
@@ -31,7 +69,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/ku.customers.domain.csproj": {
+              "projectPath": "/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/ku.customers.domain.csproj"
+            },
+            "/Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/ku.customers.infrastructure.data.csproj": {
+              "projectPath": "/Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/ku.customers.infrastructure.data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

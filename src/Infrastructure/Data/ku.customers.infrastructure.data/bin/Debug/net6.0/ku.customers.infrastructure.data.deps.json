@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ku.customers.infrastructure.data/1.0.0": {
+        "dependencies": {
+          "ku.customers.domain": "1.0.0"
+        },
         "runtime": {
           "ku.customers.infrastructure.data.dll": {}
+        }
+      },
+      "ku.customers.domain/1.0.0": {
+        "runtime": {
+          "ku.customers.domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ku.customers.infrastructure.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ku.customers.domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -9,6 +9,12 @@
 /Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/bin/Debug/net6.0/ku.customers.domain.dll
+/Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/bin/Debug/net6.0/ku.customers.infrastructure.data.dll
+/Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/bin/Debug/net6.0/ku.customers.service.dll
+/Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/bin/Debug/net6.0/ku.customers.service.pdb
+/Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/bin/Debug/net6.0/ku.customers.domain.pdb
+/Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/bin/Debug/net6.0/ku.customers.infrastructure.data.pdb
 /Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/obj/Debug/net6.0/ku.customers.api.csproj.AssemblyReference.cache
 /Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/obj/Debug/net6.0/ku.customers.api.GeneratedMSBuildEditorConfig.editorconfig
 /Users/uzer/Desktop/Project/ku.customers/src/Api/ku.customers.api/obj/Debug/net6.0/ku.customers.api.AssemblyInfoInputs.cache

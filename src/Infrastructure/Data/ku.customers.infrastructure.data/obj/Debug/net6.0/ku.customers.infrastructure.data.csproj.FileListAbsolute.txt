@@ -1,11 +1,14 @@
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/bin/Debug/net6.0/ku.customers.infrastructure.data.deps.json
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/bin/Debug/net6.0/ku.customers.infrastructure.data.dll
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/bin/Debug/net6.0/ku.customers.infrastructure.data.pdb
+/Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/bin/Debug/net6.0/ku.customers.domain.dll
+/Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/bin/Debug/net6.0/ku.customers.domain.pdb
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/obj/Debug/net6.0/ku.customers.infrastructure.data.csproj.AssemblyReference.cache
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/obj/Debug/net6.0/ku.customers.infrastructure.data.GeneratedMSBuildEditorConfig.editorconfig
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/obj/Debug/net6.0/ku.customers.infrastructure.data.AssemblyInfoInputs.cache
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/obj/Debug/net6.0/ku.customers.infrastructure.data.AssemblyInfo.cs
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/obj/Debug/net6.0/ku.customers.infrastructure.data.csproj.CoreCompileInputs.cache
+/Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/obj/Debug/net6.0/ku.customers.infrastructure.data.csproj.CopyComplete
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/obj/Debug/net6.0/ku.customers.infrastructure.data.dll
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/obj/Debug/net6.0/refint/ku.customers.infrastructure.data.dll
 /Users/uzer/Desktop/Project/ku.customers/src/Infrastructure/Data/ku.customers.infrastructure.data/obj/Debug/net6.0/ku.customers.infrastructure.data.pdb

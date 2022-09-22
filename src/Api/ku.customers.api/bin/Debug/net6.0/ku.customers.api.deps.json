@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "ku.customers.api/1.0.0": {
         "dependencies": {
-          "Swashbuckle.AspNetCore": "6.2.3"
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "ku.customers.service": "1.0.0"
         },
         "runtime": {
           "ku.customers.api.dll": {}
@@ -60,6 +61,28 @@
             "fileVersion": "6.2.3.0"
           }
         }
+      },
+      "ku.customers.domain/1.0.0": {
+        "runtime": {
+          "ku.customers.domain.dll": {}
+        }
+      },
+      "ku.customers.infrastructure.data/1.0.0": {
+        "dependencies": {
+          "ku.customers.domain": "1.0.0"
+        },
+        "runtime": {
+          "ku.customers.infrastructure.data.dll": {}
+        }
+      },
+      "ku.customers.service/1.0.0": {
+        "dependencies": {
+          "ku.customers.domain": "1.0.0",
+          "ku.customers.infrastructure.data": "1.0.0"
+        },
+        "runtime": {
+          "ku.customers.service.dll": {}
+        }
       }
     }
   },
@@ -110,6 +133,21 @@
       "sha512": "sha512-bCRI87uKJVb4G+KURWm8LQrL64St04dEFZcF6gIM67Zc0Sr/N47EO83ybLMYOvfNdO1DCv8xwPcrz9J/VEhQ5g==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.2.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    },
+    "ku.customers.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ku.customers.infrastructure.data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ku.customers.service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
