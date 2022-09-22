@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i1/7wRlYMHDT1pRKtQEWufatpzp1+K2b8/YRXEPa3F4=",
+  "Source": "ku.customers.api",
+  "BasePath": "_content/ku.customers.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

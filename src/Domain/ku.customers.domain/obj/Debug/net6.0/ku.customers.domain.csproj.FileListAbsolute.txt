@@ -1,0 +1,12 @@
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/bin/Debug/net6.0/ku.customers.domain.deps.json
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/bin/Debug/net6.0/ku.customers.domain.dll
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/bin/Debug/net6.0/ku.customers.domain.pdb
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/obj/Debug/net6.0/ku.customers.domain.csproj.AssemblyReference.cache
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/obj/Debug/net6.0/ku.customers.domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/obj/Debug/net6.0/ku.customers.domain.AssemblyInfoInputs.cache
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/obj/Debug/net6.0/ku.customers.domain.AssemblyInfo.cs
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/obj/Debug/net6.0/ku.customers.domain.csproj.CoreCompileInputs.cache
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/obj/Debug/net6.0/ku.customers.domain.dll
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/obj/Debug/net6.0/refint/ku.customers.domain.dll
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/obj/Debug/net6.0/ku.customers.domain.pdb
+/Users/uzer/Desktop/Project/ku.customers/src/Domain/ku.customers.domain/obj/Debug/net6.0/ref/ku.customers.domain.dll
